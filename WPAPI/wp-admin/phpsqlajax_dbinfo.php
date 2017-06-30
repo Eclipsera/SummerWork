@@ -1,5 +1,5 @@
 <?php
 $username="root";
-$password="1locoloco";
+$password="passo";
 $database="test_wp";
 ?>
