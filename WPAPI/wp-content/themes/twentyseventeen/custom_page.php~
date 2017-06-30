@@ -1,0 +1,22 @@
+<?php
+/*
+*Template Name: My Custom Page
+*Description: A darker page template
+*/
+?>
+
+<html>
+<head>
+   <style>
+      #map {
+        width: 100%;
+        height: 500px;
+        background-color: black;
+      }
+   </style>
+</head>
+<body>
+ <h2>Experiment Visual</h2>
+ <div id="map"></div>
+</body>
+</html>
